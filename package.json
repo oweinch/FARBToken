@@ -1,0 +1,18 @@
+{
+  "name": "FARBToken",
+  "version": "1.0.0",
+  "description": "Flash Loan Arbitrage ERC20 Token",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.0.43",
+    "truffle-plugin-verify": "^0.3.11"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "commander": "^6.1.0",
+    "dotenv": "^8.2.0",
+    "mysql": "^2.18.1",
+    "web3": "^1.2.11"
+  }
+}
